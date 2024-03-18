@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Mr.KD",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FMrKD.png?alt=media&token=d453fce4-da6c-4bb5-b47c-afffb0256531",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Green",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FGreen.png?alt=media&token=9cf1c910-c1da-4e52-a3ce-a0a5e61d2dd4",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Abhimanea",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FAbhimanea.png?alt=media&token=c294cf88-cbba-474e-a4d5-f9dee504717f",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Ancheza",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FAncheza.png?alt=media&token=cc029955-3db5-4b8c-bac2-330ff508ecd8",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  },
+  {
+    "id": 5,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Mr.KD",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FMrKD.png?alt=media&token=d453fce4-da6c-4bb5-b47c-afffb0256531",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  },
+  {
+    "id": 6,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Green",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FGreen.png?alt=media&token=9cf1c910-c1da-4e52-a3ce-a0a5e61d2dd4",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  },
+  {
+    "id": 7,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Abhimanea",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FAbhimanea.png?alt=media&token=c294cf88-cbba-474e-a4d5-f9dee504717f",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  },
+  {
+    "id": 8,
+    "category_id": 1,
+    "category_name": "Logos",
+    "name": "Ancheza",
+    "url": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/projects%2Flogos%2FAncheza.png?alt=media&token=cc029955-3db5-4b8c-bac2-330ff508ecd8",
+    "colors": ["#FF0000", "#FFFEFE", "#544545", "#000000", "#250000"],
+    "fonts": "British Inserat MN Regular",
+    "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
+  }
+]

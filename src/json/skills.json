@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Illustrator",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/illustrator.png?alt=media&token=71b251c3-f5e3-4acd-bba4-aeb639a57009&_gl=1*107042u*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5MjY4NS42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/illustrator-2.png?alt=media&token=90e9d34d-9b81-434b-b66f-4eac7bd848d9&_gl=1*19ayu2v*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5MjczMC4xNS4wLjA."
+  },
+  {
+    "id": 2,
+    "name": "Photoshop",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/photoshop.png?alt=media&token=87008a0c-9595-4a4d-be8c-749015d4c992&_gl=1*1ckct2x*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5NDA4Ny4zOS4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/photoshop-2.png?alt=media&token=fb507016-5779-48d5-b4b5-e5bc46608ec4&_gl=1*9ijk15*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5NDEyMi40LjAuMA.."
+  },
+  {
+    "id": 3,
+    "name": "Indesign",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/indesign.png?alt=media&token=c68d1056-a2b8-42c6-a748-53683fa502fe&_gl=1*q424nv*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5NDE3MS4xNS4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/indesign-2.png?alt=media&token=9c473b71-3f3f-4fd7-8568-79eaca2361ad&_gl=1*13c6g4m*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5NDI1MC42MC4wLjA."
+  },
+  {
+    "id": 4,
+    "name": "Figma",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/figma.png?alt=media&token=5b5375d0-0c04-4cba-b811-c9110f75487d&_gl=1*5d0z8w*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTQ1NS4yNS4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/figma-2.png?alt=media&token=8d370f2e-a304-469f-8a0a-17e77f70a6f3&_gl=1*rycm7j*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5NDMxMS42MC4wLjA."
+  },
+  {
+    "id": 5,
+    "name": "XD",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/xd.png?alt=media&token=15ba2ed0-30c1-4643-99a2-fb121344654a&_gl=1*kl9n14*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5NDM0MS4zMC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/xd-2.png?alt=media&token=3a8ad8ea-9b9e-4a3d-85bd-6d930f55cb0b&_gl=1*mwv3cg*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5MjQ5OC4yLjEuMTY5ODk5NDM4NC42MC4wLjA."
+  },
+  {
+    "id": 6,
+    "name": "HTML",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/html.png?alt=media&token=8c6912f9-8b74-4a61-8fe8-003c28f0b0d6&_gl=1*167nsze*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTQyMC42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/html-2.png?alt=media&token=cd418a1b-9509-451e-a9e4-602ff9a083cb&_gl=1*3zmfup*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjAuMTY5ODk5ODY5OS42MC4wLjA."
+  },
+  {
+    "id": 7,
+    "name": "CSS",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/css.png?alt=media&token=3c7a2163-828a-437c-822e-5825e98f7268&_gl=1*50hyth*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTU0Ny42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/css-2.png?alt=media&token=4efd8a42-b775-4692-a9a8-4509e182dd91&_gl=1*eagcp3*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTU3My4zNC4wLjA."
+  },
+  {
+    "id": 8,
+    "name": "Tailwind",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/tailwind.png?alt=media&token=be1fbde2-723d-4296-babb-23f2c7dfe849&_gl=1*dd1bqv*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTYzNC41OS4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/tailwindcss-2.png?alt=media&token=a6f6f84f-02b7-4b32-be18-7a6dacf800dd&_gl=1*1rqk65j*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTY1My40MC4wLjA."
+  },
+  {
+    "id": 9,
+    "name": "Tailwind",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/javascript.png?alt=media&token=b257ec16-d6ec-423b-b4bd-12b31226230c&_gl=1*1o1ahs1*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTcwNS42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/javascript-2.png?alt=media&token=732c3aac-2d52-4f97-b734-2fcb81be42d7&_gl=1*1o1d3u0*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTcyMy40Mi4wLjA."
+  },
+  {
+    "id": 10,
+    "name": "React",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/react.png?alt=media&token=f00a77cc-fc77-4779-ae6c-dd6e15f7ebf9&_gl=1*5phm26*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTc5MC42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/react-2.png?alt=media&token=4f8592f9-a199-484a-9169-4a115e188cbb&_gl=1*4fhsvz*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTgxNi4zNC4wLjA."
+  },
+  {
+    "id": 11,
+    "name": "Next",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/next.png?alt=media&token=aac80471-f5eb-4fc9-9aa3-4e703203ae6a&_gl=1*kjoay7*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTg3MC42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/nextjs-2.png?alt=media&token=9e1a97df-2af5-4c78-958e-672d58ab9b99&_gl=1*pwu99q*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTkxMy4xNy4wLjA."
+  },
+  {
+    "id": 12,
+    "name": "Wordpress",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/wordpress.png?alt=media&token=f7c58568-5aa1-45f1-8037-c80eb0b1bff5&_gl=1*yfi64v*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTkzOS42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/wordpress-2.png?alt=media&token=c2417958-5063-48fe-bacd-8bb37e4cc93d&_gl=1*5hey2*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5ODk5OTk4NC4xNS4wLjA."
+  },
+  {
+    "id": 13,
+    "name": "Bootstrap",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/bootstrap.png?alt=media&token=eff010dd-49f6-4c0a-bf91-0cbeda6d94b0&_gl=1*dphzf3*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5OTAwMDAxMy42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/bootstrap-2.png?alt=media&token=366e52e2-ee76-49c8-8d32-6035e9ba2ea2&_gl=1*ts9wla*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5OTAwMDA2NS44LjAuMA.."
+  },
+  {
+    "id": 14,
+    "name": "Microsoft",
+    "img": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/microsoft.png?alt=media&token=51977531-d788-4030-9f02-57d1e484416a&_gl=1*1sfkxa*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5OTAwMDA5Ni42MC4wLjA.",
+    "imghov": "https://firebasestorage.googleapis.com/v0/b/akesha-portfolio.appspot.com/o/microsoft-2.png?alt=media&token=097ef4a9-0c8d-48e1-b52d-bda493f26f5e&_gl=1*8l6gg1*_ga*MzEzNjAyODcxLjE2OTg5NDE3OTU.*_ga_CW55HF8NVT*MTY5ODk5ODY5OS4zLjEuMTY5OTAwMDExMy40My4wLjA."
+  }
+]

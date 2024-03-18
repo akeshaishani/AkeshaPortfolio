@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Logos",
+        "url": ""
+      },
+      {
+        "id": 2,
+        "name": "Business Cards",
+        "url": ""
+      },
+      {
+        "id": 3,
+        "name": "Letterheads",
+        "url": ""
+      },
+      {
+        "id": 4,
+        "name": "Brochures",
+        "url": ""
+      },
+      {
+        "id": 5,
+        "name": "Banners",
+        "url": ""
+      },
+      {
+        "id": 6,
+        "name": "Flyers",
+        "url": ""
+      },
+      {
+        "id": 7,
+        "name": "Stickers",
+        "url": ""
+      },
+      {
+        "id": 8,
+        "name": "Packages",
+        "url": ""
+      },
+      {
+        "id": 9,
+        "name": "Icons",
+        "url": ""
+      },
+      {
+        "id": 10,
+        "name": "T-Shirts",
+        "url": ""
+      },
+      {
+        "id": 11,
+        "name": "UI Designs",
+        "url": ""
+      },
+      {
+        "id": 12,
+        "name": "Illustrations",
+        "url": ""
+      }
+]
