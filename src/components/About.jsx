@@ -45,7 +45,7 @@ export default function About() {
         </div>
         <div className="py-6 lg:pt-12 flex items-center justify-center space-x-[1rem] md:space-x-[2rem] lg:space-x-[2rem]">
           <hr className="w-12 md:w-28 lg:w-64 bg-white h-0.5 md:h-1" />
-          <h1 className="text-2xl md:text-3xl font-custom-alata">
+          <h1 className="text-xl md:text-3xl font-custom-alata">
             Skills I Have Gained
           </h1>
           <hr className="w-12 md:w-28 lg:w-64 bg-white h-0.5 md:h-1" />
