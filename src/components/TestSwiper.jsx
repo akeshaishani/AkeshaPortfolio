@@ -1,10 +1,10 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useRef } from "react";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode } from "swiper/modules";
 
 import categoriesData from "../json/categories.json";
-import projectsData from "../json/projects.json";
+//import projectsData from "../json/projects.json";
 
 export default function TestSwiper() {
   const [activeCategoryId, setActiveCategoryId] = useState();
@@ -14,17 +14,7 @@ export default function TestSwiper() {
     setActiveCategoryId(categoryId);
   };
 
-  const breakpoints = {
-    small: 320,
-    medium: 600,
-    large: 1024,
-  };
 
-  const slidesPerView = {
-    small: 2,
-    medium: 5,
-    large: 7.5,
-  };
 
   return (
     <div className="border max-w-6xl mx-auto">
@@ -34,8 +24,19 @@ export default function TestSwiper() {
       <Swiper
         // install Swiper modules
         modules={[FreeMode]}
-        spaceBetween={10}
-        slidesPerView={3}
+        breakpoints={{
+          320: {
+            slidesPerView: 2,
+            spaceBetween: 10,
+          },
+          600: {
+            slidesPerView: 5,
+          },
+          1024: {
+            slidesPerView: 7.5,
+          },
+        }}
+        
         onSwiper={(swiper) => console.log(swiper)}
         onSlideChange={handleCategoryChange}
       >
