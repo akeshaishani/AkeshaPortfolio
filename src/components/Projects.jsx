@@ -56,9 +56,11 @@ export default function Projects() {
                 },
                 600: {
                   slidesPerView: 5,
+                  spaceBetween: 5,
                 },
                 1024: {
                   slidesPerView: 7.5,
+                  spaceBetween: 10,
                 },
               }}
               onSwiper={(swiper) => console.log(swiper)}
