@@ -53,29 +53,15 @@ export default function About() {
 
         <div className="grid sm:grid-cols-3 md:grid-cols-7 lg:grid-cols-14 flex-wrap gap-4 md:justify-between py-[2rem] mx-auto">
           {skills.map((skills) => (
-            <div
-              key={skills.id}
-              onMouseEnter={() => setIsHovered(skills.id)}
-              onMouseLeave={() => setIsHovered(null)}
-              className="flex justify-center items-center"
-            >
-              {isHovered === skills.id ? (
-                <img
-                  className="w-[4rem]"
-                  src={skills.imghov}
-                  alt={`${skills.name} ${skills.id}`}
-                />
-              ) : (
-                <img
-                  className="w-[4rem]"
-                  src={skills.img}
-                  alt={`${skills.name} ${skills.id}`}
-                />
-              )}
+            <div key={skills.id} className="flex justify-center items-center">
+              <img
+                className="w-[4rem] h-auto filter md:brightness-50 hover:filter-none transition duration-300"
+                src={skills.imghov}
+                alt={`${skills.name} ${skills.id}`}
+              />
             </div>
           ))}
         </div>
-        
       </div>
     </div>
   );
